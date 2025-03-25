@@ -1,6 +1,6 @@
 # gemma-captioner: Quick and easy video and image captioning with Gemma 3
 
-These are one shot scripts designed to work with Gemma 3 by Google that automatically performs captioning on an entire folder of images or videos, and will create caption .txt files with the same file name as the corresponding image or video. Best used in a fine-tuning pipeline for open source video packages like Mochi, Wan, LTX, or Hunyuan Video (the latter three best accomplished through diffusion-pipe.)
+These are one shot scripts designed to work with Gemma 3 by Google that automatically performs captioning on an entire folder of images or videos, and will create caption .txt files with the same file name as the corresponding image or video. Best used in a fine-tuning pipeline for open source video packages like Mochi, Wan, LTX, or Hunyuan Video (the latter three best accomplished through diffusion-pipe.) It will automatically download the model listed in the settings.
 
 You can edit the prompt at the top to have it provide whatever kind of captions you prefer, though most video packages do best with a single descriptive line.
 
