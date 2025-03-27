@@ -1,3 +1,14 @@
 accelerate==1.5.2
 transformers=4.50.1
 opencv-python=4.11.0.86
+torch>=2.0.0
+transformers>=4.50.0
+pillow>=9.0.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0
+safetensors>=0.3.3
+sentencepiece>=0.1.99
+protobuf>=4.24.0
+pydantic>=2.0.0
+optimum>=1.16.0
+unsloth>=2023.0.0
